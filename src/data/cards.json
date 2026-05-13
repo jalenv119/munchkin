@@ -1,0 +1,1800 @@
+{
+  "meta": {
+    "set": "Munchkin Base Set",
+    "version": "1.0",
+    "totalCards": 168,
+    "doorCards": 84,
+    "treasureCards": 84
+  },
+  "cards": [
+
+
+    {
+      "id": "D001",
+      "deck": "door",
+      "type": "monster",
+      "name": "Bigfoot",
+      "level": 10,
+      "treasures": 3,
+      "badStuff": "Bigfoot steps on you. Lose your Footgear. If you have no Footgear, lose a level.",
+      "specialRules": [],
+      "flavorText": "He's real. And he's angry."
+    },
+    {
+      "id": "D002",
+      "deck": "door",
+      "type": "monster",
+      "name": "Blorc",
+      "level": 6,
+      "treasures": 2,
+      "badStuff": "It sits on you. Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Half Blob. Half Orc. All ugly."
+    },
+    {
+      "id": "D003",
+      "deck": "door",
+      "type": "monster",
+      "name": "Bullrog",
+      "level": 18,
+      "treasures": 4,
+      "badStuff": "You die. Lose all your stuff.",
+      "specialRules": ["undead"],
+      "flavorText": "It's a bull. It's a frog. It will kill you."
+    },
+    {
+      "id": "D004",
+      "deck": "door",
+      "type": "monster",
+      "name": "Charitable Banker",
+      "level": 4,
+      "treasures": 2,
+      "badStuff": "He repossesses your most expensive Item. Discard it.",
+      "specialRules": [],
+      "flavorText": "He just wants to help... himself to your stuff."
+    },
+    {
+      "id": "D005",
+      "deck": "door",
+      "type": "monster",
+      "name": "Cheesy Gargoyle",
+      "level": 3,
+      "treasures": 1,
+      "badStuff": "Lose your headgear. If you have none, lose a level.",
+      "specialRules": [],
+      "flavorText": "He looks ridiculous but he'll still mess you up."
+    },
+    {
+      "id": "D006",
+      "deck": "door",
+      "type": "monster",
+      "name": "Crabs",
+      "level": 1,
+      "treasures": 1,
+      "badStuff": "Lose 1 level.",
+      "specialRules": [],
+      "flavorText": "They're crabs. What do you want?"
+    },
+    {
+      "id": "D007",
+      "deck": "door",
+      "type": "monster",
+      "name": "Drooling Slime",
+      "level": 1,
+      "treasures": 1,
+      "badStuff": "Lose your armor. If you have none, lose a level.",
+      "specialRules": [],
+      "flavorText": "It came from the dungeon floor. Or possibly the cafeteria."
+    },
+    {
+      "id": "D008",
+      "deck": "door",
+      "type": "monster",
+      "name": "Flying Frogs",
+      "level": 2,
+      "treasures": 1,
+      "badStuff": "They mock you. Lose a level.",
+      "specialRules": [],
+      "flavorText": "Ribbit. Ribbit. Ribbit. (Swoosh.)"
+    },
+    {
+      "id": "D009",
+      "deck": "door",
+      "type": "monster",
+      "name": "Floating Nose",
+      "level": 10,
+      "treasures": 3,
+      "badStuff": "It smells you coming next time. Your next combat is at -3.",
+      "specialRules": [],
+      "flavorText": "Don't ask where it came from."
+    },
+    {
+      "id": "D010",
+      "deck": "door",
+      "type": "monster",
+      "name": "Gazebo",
+      "level": 8,
+      "treasures": 2,
+      "badStuff": "It is made of wood. You are not. Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "I was once at a convention where I encountered a gazebo..."
+    },
+    {
+      "id": "D011",
+      "deck": "door",
+      "type": "monster",
+      "name": "Gelatinous Octahedron",
+      "level": 4,
+      "treasures": 2,
+      "badStuff": "It engulfs you. Lose your armor. If no armor, lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Non-Euclidean. Non-friendly."
+    },
+    {
+      "id": "D012",
+      "deck": "door",
+      "type": "monster",
+      "name": "Ghoulfiend",
+      "level": 8,
+      "treasures": 2,
+      "badStuff": "Lose 2 levels.",
+      "specialRules": ["undead"],
+      "flavorText": "Ghoul + fiend. Efficiency in evil."
+    },
+    {
+      "id": "D013",
+      "deck": "door",
+      "type": "monster",
+      "name": "Hippogriff",
+      "level": 6,
+      "treasures": 2,
+      "badStuff": "It swoops you up and drops you. Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Half horse. Half griffin. All problem."
+    },
+    {
+      "id": "D014",
+      "deck": "door",
+      "type": "monster",
+      "name": "Horthgar the Axe Maniac",
+      "level": 14,
+      "treasures": 4,
+      "badStuff": "He takes your biggest weapon. If no weapon, lose 3 levels.",
+      "specialRules": [],
+      "flavorText": "He has many axes. He wants more."
+    },
+    {
+      "id": "D015",
+      "deck": "door",
+      "type": "monster",
+      "name": "Insurance Salesman",
+      "level": 5,
+      "treasures": 2,
+      "badStuff": "He sells you a policy. Lose 3 levels.",
+      "specialRules": [],
+      "flavorText": "The most terrifying monster in the dungeon."
+    },
+    {
+      "id": "D016",
+      "deck": "door",
+      "type": "monster",
+      "name": "Lame Goblin",
+      "level": 1,
+      "treasures": 1,
+      "badStuff": "Lose a level.",
+      "specialRules": [],
+      "flavorText": "He's lame. But he's still a goblin."
+    },
+    {
+      "id": "D017",
+      "deck": "door",
+      "type": "monster",
+      "name": "Large Angry Chicken",
+      "level": 2,
+      "treasures": 1,
+      "badStuff": "It pecks you. Lose a level.",
+      "specialRules": [],
+      "flavorText": "Bawk BAWK bawk."
+    },
+    {
+      "id": "D018",
+      "deck": "door",
+      "type": "monster",
+      "name": "Leprechaun",
+      "level": 3,
+      "treasures": 2,
+      "badStuff": "It steals your gold. Lose 2 Treasure cards at random from your hand.",
+      "specialRules": [],
+      "flavorText": "He's after your Lucky Charms. And your Treasure cards."
+    },
+    {
+      "id": "D019",
+      "deck": "door",
+      "type": "monster",
+      "name": "Maul Rat",
+      "level": 1,
+      "treasures": 1,
+      "badStuff": "Lose a level.",
+      "specialRules": [],
+      "flavorText": "It gnaws on your ankles. And your dignity."
+    },
+    {
+      "id": "D020",
+      "deck": "door",
+      "type": "monster",
+      "name": "Mr. Bones",
+      "level": 2,
+      "treasures": 1,
+      "badStuff": "He rattles at you. Lose a level.",
+      "specialRules": ["undead"],
+      "flavorText": "He's got a bone to pick with you. Several, actually."
+    },
+    {
+      "id": "D021",
+      "deck": "door",
+      "type": "monster",
+      "name": "Net Troll",
+      "level": 10,
+      "treasures": 3,
+      "badStuff": "He trolls you online AND offline. Lose 2 levels and discard a card.",
+      "specialRules": [],
+      "flavorText": "First Hits: Lose the Item with the highest value, or your best one-handed weapon."
+    },
+    {
+      "id": "D022",
+      "deck": "door",
+      "type": "monster",
+      "name": "Pit Bull",
+      "level": 5,
+      "treasures": 2,
+      "badStuff": "It mauls you. Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Good dog. Bad situation."
+    },
+    {
+      "id": "D023",
+      "deck": "door",
+      "type": "monster",
+      "name": "Plutonium Dragon",
+      "level": 20,
+      "treasures": 5,
+      "badStuff": "You die instantly. Really. No saving throw.",
+      "specialRules": [],
+      "flavorText": "The final boss. Genuinely."
+    },
+    {
+      "id": "D024",
+      "deck": "door",
+      "type": "monster",
+      "name": "Potted Plant",
+      "level": 1,
+      "treasures": 1,
+      "badStuff": "It falls on you. Lose a level.",
+      "specialRules": [],
+      "flavorText": "How did this get in the dungeon?"
+    },
+    {
+      "id": "D025",
+      "deck": "door",
+      "type": "monster",
+      "name": "Shrieking Geek",
+      "level": 4,
+      "treasures": 2,
+      "badStuff": "It lectures you about game mechanics. Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Actually, in the 3rd edition rules..."
+    },
+    {
+      "id": "D026",
+      "deck": "door",
+      "type": "monster",
+      "name": "Slurpy",
+      "level": 3,
+      "treasures": 1,
+      "badStuff": "Lose your armor. If no armor, lose a level.",
+      "specialRules": [],
+      "flavorText": "It licks everything. Everything."
+    },
+    {
+      "id": "D027",
+      "deck": "door",
+      "type": "monster",
+      "name": "Snails of Speed",
+      "level": 3,
+      "treasures": 2,
+      "badStuff": "They're fast. You're slow. Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Speed: Ludicrous."
+    },
+    {
+      "id": "D028",
+      "deck": "door",
+      "type": "monster",
+      "name": "Squidzilla",
+      "level": 12,
+      "treasures": 4,
+      "badStuff": "It destroys a city AND your best item. Lose your highest-value equipped item.",
+      "specialRules": [],
+      "flavorText": "Godzilla's less popular cousin."
+    },
+    {
+      "id": "D029",
+      "deck": "door",
+      "type": "monster",
+      "name": "Stone Golem",
+      "level": 14,
+      "treasures": 3,
+      "badStuff": "It crushes you. Lose 3 levels.",
+      "specialRules": [],
+      "flavorText": "Rock solid. In the worst way."
+    },
+    {
+      "id": "D030",
+      "deck": "door",
+      "type": "monster",
+      "name": "Tongue Demon",
+      "level": 6,
+      "treasures": 2,
+      "badStuff": "It licks off your face. Lose headgear. If no headgear, lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "Do NOT make eye contact."
+    },
+    {
+      "id": "D031",
+      "deck": "door",
+      "type": "monster",
+      "name": "Undead Horse",
+      "level": 5,
+      "treasures": 2,
+      "badStuff": "Lose your footgear. If no footgear, lose a level.",
+      "specialRules": ["undead"],
+      "flavorText": "The gift you can't return."
+    },
+    {
+      "id": "D032",
+      "deck": "door",
+      "type": "monster",
+      "name": "Unspeakably Awful Indescribable Horror",
+      "level": 20,
+      "treasures": 4,
+      "badStuff": "You die. All your stuff is discarded.",
+      "specialRules": [],
+      "flavorText": "We'd describe it but we can't."
+    },
+    {
+      "id": "D033",
+      "deck": "door",
+      "type": "monster",
+      "name": "Vampire",
+      "level": 6,
+      "treasures": 2,
+      "badStuff": "It bites you. Lose 2 levels.",
+      "specialRules": ["undead"],
+      "flavorText": "Sparkles not included."
+    },
+    {
+      "id": "D034",
+      "deck": "door",
+      "type": "monster",
+      "name": "Wannabe Vampire",
+      "level": 3,
+      "treasures": 1,
+      "badStuff": "Lose a level.",
+      "specialRules": ["undead"],
+      "flavorText": "He read too many Anne Rice novels."
+    },
+    {
+      "id": "D035",
+      "deck": "door",
+      "type": "monster",
+      "name": "Wight Brothers",
+      "level": 8,
+      "treasures": 2,
+      "badStuff": "They fly you somewhere unpleasant. Lose 2 levels.",
+      "specialRules": ["undead"],
+      "flavorText": "They invented flight. Unfortunately."
+    },
+    {
+      "id": "D036",
+      "deck": "door",
+      "type": "monster",
+      "name": "Wizard of Ros",
+      "level": 10,
+      "treasures": 3,
+      "badStuff": "He turns you into something embarrassing. Lose 2 levels and discard your class card.",
+      "specialRules": [],
+      "flavorText": "Pay no attention to the man behind the curtain."
+    },
+    {
+      "id": "D037",
+      "deck": "door",
+      "type": "monster",
+      "name": "Zapped Amazon",
+      "level": 8,
+      "treasures": 2,
+      "badStuff": "Lose 2 levels.",
+      "specialRules": [],
+      "flavorText": "She's had a very bad day. She's going to share."
+    },
+
+    
+    {
+      "id": "D038",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Change Sex",
+      "effect": "Change your sex. If your class or race has different rules for different sexes, you are now subject to the rules for your new sex.",
+      "target": "self",
+      "flavorText": "Surprise!"
+    },
+    {
+      "id": "D039",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Chicken On Your Head",
+      "effect": "You have a chicken on your head. You cannot wear headgear. Discard your headgear if any. This curse lasts until another Curse affects you.",
+      "target": "self",
+      "flavorText": "Bawk."
+    },
+    {
+      "id": "D040",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose 1 Level",
+      "effect": "Lose 1 level.",
+      "target": "self",
+      "flavorText": "Oops."
+    },
+    {
+      "id": "D041",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose 1 Level",
+      "effect": "Lose 1 level.",
+      "target": "self",
+      "flavorText": "Oops again."
+    },
+    {
+      "id": "D042",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose 2 Levels",
+      "effect": "Lose 2 levels.",
+      "target": "self",
+      "flavorText": "Really oops."
+    },
+    {
+      "id": "D043",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose Big Item",
+      "effect": "Discard your most valuable Big item. If you have none, discard your most valuable item.",
+      "target": "self",
+      "flavorText": "At least it wasn't the really big one. Wait..."
+    },
+    {
+      "id": "D044",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose Small Item",
+      "effect": "Discard your most valuable small item.",
+      "target": "self",
+      "flavorText": "The small things matter."
+    },
+    {
+      "id": "D045",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose the Armor You Are Wearing",
+      "effect": "Discard whatever armor you are currently using. If you have no armor equipped, nothing happens.",
+      "target": "self",
+      "flavorText": "Naked and not loving it."
+    },
+    {
+      "id": "D046",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose the Headgear You Are Wearing",
+      "effect": "Discard whatever headgear you are currently using. If you have no headgear equipped, nothing happens.",
+      "target": "self",
+      "flavorText": "Off the top of your head."
+    },
+    {
+      "id": "D047",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose the Footgear You Are Wearing",
+      "effect": "Discard whatever footgear you are currently using. If you have no footgear equipped, nothing happens.",
+      "target": "self",
+      "flavorText": "Barefoot in the dungeon. Ouch."
+    },
+    {
+      "id": "D048",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose Your Race",
+      "effect": "Discard your Race card. You are now human.",
+      "target": "self",
+      "flavorText": "So very... normal."
+    },
+    {
+      "id": "D049",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Lose Your Class",
+      "effect": "Discard your Class card. You are now classless.",
+      "target": "self",
+      "flavorText": "That's what they said about you in school too."
+    },
+    {
+      "id": "D050",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Malign Mirror",
+      "effect": "This curse affects the player to your left instead of you.",
+      "target": "left",
+      "flavorText": "Not your problem anymore."
+    },
+    {
+      "id": "D051",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Duck of Doom",
+      "effect": "Lose 2 levels.",
+      "target": "self",
+      "flavorText": "Quack."
+    },
+    {
+      "id": "D052",
+      "deck": "door",
+      "type": "curse",
+      "name": "Curse! Tax Collector",
+      "effect": "Lose one treasure card of the highest value in your hand. If your hand is empty, lose a level.",
+      "target": "self",
+      "flavorText": "Death and taxes. In a dungeon."
+    },
+
+   
+    {
+      "id": "D053",
+      "deck": "door",
+      "type": "class",
+      "name": "Cleric",
+      "abilities": [
+        "You may use any one Divine Intervention card per combat.",
+        "You can Turn Undead: in combat with an undead monster, you may discard any one card to add +3 to your combat strength.",
+        "You may use any Cleric-only items."
+      ],
+      "flavorText": "Healer, smiter, level grinder."
+    },
+    {
+      "id": "D054",
+      "deck": "door",
+      "type": "class",
+      "name": "Thief",
+      "abilities": [
+        "Once per combat (not your own), you may steal an item from another player. Roll the die: 4-6 = success, take item to your hand; 1-3 = failure, lose a level.",
+        "You may use any Thief-only items.",
+        "Backstab: once per combat, you may play this to add +2 against a monster."
+      ],
+      "flavorText": "Everything not nailed down is yours. Eventually."
+    },
+    {
+      "id": "D055",
+      "deck": "door",
+      "type": "class",
+      "name": "Warrior",
+      "abilities": [
+        "You may use any Warrior-only items.",
+        "Berserking: you may discard any number of cards to add +1 per card to your combat strength for one combat.",
+        "You are not required to Charity at the end of your turn."
+      ],
+      "flavorText": "Hit things. Get levels. Repeat."
+    },
+    {
+      "id": "D056",
+      "deck": "door",
+      "type": "class",
+      "name": "Wizard",
+      "abilities": [
+        "You may use any Wizard-only items.",
+        "Spells: you may discard any Spell card from your hand to add its bonus to your combat strength.",
+        "You may cast any one spell per combat."
+      ],
+      "flavorText": "You have studied. Now suffer."
+    },
+
+    {
+      "id": "D057",
+      "deck": "door",
+      "type": "race",
+      "name": "Dwarf",
+      "abilities": [
+        "You may carry an extra Big item.",
+        "You are +2 in combat against Orcs."
+      ],
+      "flavorText": "Short. Stubborn. Surprisingly effective."
+    },
+    {
+      "id": "D058",
+      "deck": "door",
+      "type": "race",
+      "name": "Elf",
+      "abilities": [
+        "Every time you help another player kill a monster, you gain a level (in addition to any treasure).",
+        "You may use any Elf-only items."
+      ],
+      "flavorText": "Legolas would be proud. Maybe."
+    },
+    {
+      "id": "D059",
+      "deck": "door",
+      "type": "race",
+      "name": "Halfling",
+      "abilities": [
+        "You may hold two extra cards in your hand.",
+        "Once per turn, you may discard a card to Dodge: escape combat automatically with no Run Away roll needed."
+      ],
+      "flavorText": "Small feet. Big appetite. Surprisingly sneaky."
+    },
+    {
+      "id": "D060",
+      "deck": "door",
+      "type": "race",
+      "name": "Human",
+      "abilities": [
+        "Humans have no special abilities.",
+        "Wait — actually you can sell items for 1 extra Gold Piece (1 extra level worth of sale value) once per turn."
+      ],
+      "flavorText": "Boring but versatile."
+    },
+
+    
+    {
+      "id": "D061",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Wandering Monster",
+      "playTiming": "during someone else's combat",
+      "effect": "Play a monster from your hand. It joins the combat against the current player.",
+      "flavorText": "Surprise!"
+    },
+    {
+      "id": "D062",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Wandering Monster",
+      "playTiming": "during someone else's combat",
+      "effect": "Play a monster from your hand. It joins the combat against the current player.",
+      "flavorText": "Double surprise!"
+    },
+    {
+      "id": "D063",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Divine Intervention",
+      "playTiming": "anytime",
+      "effect": "Clerics only: add +3 to your combat strength.",
+      "flavorText": "The big guy upstairs has your back."
+    },
+    {
+      "id": "D064",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Divine Intervention",
+      "playTiming": "anytime",
+      "effect": "Clerics only: add +3 to your combat strength.",
+      "flavorText": "Still has your back."
+    },
+    {
+      "id": "D065",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Help Me Out Here!",
+      "playTiming": "anytime",
+      "effect": "Ask any one player to help you in combat. They may agree or refuse. Negotiate treasure split.",
+      "flavorText": "Please? I'll give you half... of the worst treasure."
+    },
+    {
+      "id": "D066",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Illusion",
+      "playTiming": "combat",
+      "effect": "The monster you are fighting is an illusion. Treat its level as 0 for this combat. You still get treasures.",
+      "flavorText": "It's not real. The treasure is real though."
+    },
+    {
+      "id": "D067",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Look For Trouble",
+      "playTiming": "your turn",
+      "effect": "Play a monster from your hand and fight it as if you had kicked open the door and found it.",
+      "flavorText": "Bored? Pick a fight."
+    },
+    {
+      "id": "D068",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Out To Lunch",
+      "playTiming": "anytime",
+      "effect": "Play on any monster. It is distracted and wanders off. Remove it from combat. No treasures.",
+      "flavorText": "Be right back."
+    },
+    {
+      "id": "D069",
+      "deck": "door",
+      "type": "oneshot",
+      "name": "Friendship Potion",
+      "playTiming": "combat",
+      "effect": "The monster becomes friendly. Escape without running away. No treasures, no bad stuff.",
+      "flavorText": "Who's a good Bullrog?"
+    },
+
+   
+    {
+      "id": "T001",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Horned Helmet",
+      "bonus": 3,
+      "slot": "headgear",
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "It has horns. That means +3."
+    },
+    {
+      "id": "T002",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Helm of Courage",
+      "bonus": 2,
+      "slot": "headgear",
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Wearing this makes you feel brave. That's something."
+    },
+    {
+      "id": "T003",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Pointy Hat of Power",
+      "bonus": 3,
+      "slot": "headgear",
+      "value": 400,
+      "big": false,
+      "restrictions": ["wizard"],
+      "flavorText": "Wizards only. Non-wizards just look silly."
+    },
+    {
+      "id": "T004",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Tiara of Keeping Hair Tidy",
+      "bonus": 3,
+      "slot": "headgear",
+      "value": 400,
+      "big": false,
+      "restrictions": ["female"],
+      "flavorText": "It's a tiara. It works. Don't ask questions."
+    },
+
+
+    {
+      "id": "T005",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Chainmail Bikini",
+      "bonus": 2,
+      "slot": "armor",
+      "value": 200,
+      "big": false,
+      "restrictions": ["female"],
+      "flavorText": "Provides minimal coverage and maximum bonus."
+    },
+    {
+      "id": "T006",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Mithril Armor",
+      "bonus": 4,
+      "slot": "armor",
+      "value": 600,
+      "big": true,
+      "restrictions": [],
+      "flavorText": "Light as a feather. Strong as a really strong thing."
+    },
+    {
+      "id": "T007",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Leather Armor",
+      "bonus": 1,
+      "slot": "armor",
+      "value": 100,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Better than nothing. Marginally."
+    },
+    {
+      "id": "T008",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Plate Armor",
+      "bonus": 3,
+      "slot": "armor",
+      "value": 400,
+      "big": true,
+      "restrictions": [],
+      "flavorText": "Heavy. Clanky. Effective."
+    },
+    {
+      "id": "T009",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Kneepads of Allure",
+      "bonus": 3,
+      "slot": "armor",
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "Once per combat, you may use these to ask any one player for help without negotiating. They may still refuse.",
+      "flavorText": "The power of knee protection and interpersonal charm."
+    },
+
+   
+    {
+      "id": "T010",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Boots of Butt-Kicking",
+      "bonus": 2,
+      "slot": "footgear",
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Kick butt. Get treasure."
+    },
+    {
+      "id": "T011",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Boots of Running Really Fast",
+      "bonus": 0,
+      "slot": "footgear",
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "You automatically succeed at Run Away attempts. No die roll needed.",
+      "flavorText": "Discretion: the better part of valor."
+    },
+    {
+      "id": "T012",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Spiked Boots",
+      "bonus": 1,
+      "slot": "footgear",
+      "value": 200,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Every step is a statement."
+    },
+    {
+      "id": "T013",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Sneakers of Sneakiness",
+      "bonus": 2,
+      "slot": "footgear",
+      "value": 300,
+      "big": false,
+      "restrictions": ["thief"],
+      "flavorText": "Thieves only. Squeak-free guaranteed."
+    },
+
+
+    {
+      "id": "T014",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Dagger of Treachery",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 1,
+      "value": 400,
+      "big": false,
+      "restrictions": ["thief"],
+      "flavorText": "Stab first. Ask questions later. Skip questions."
+    },
+    {
+      "id": "T015",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Short Sword",
+      "bonus": 2,
+      "slot": "hand",
+      "hands": 1,
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Short. Stabby. Gets the job done."
+    },
+    {
+      "id": "T016",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Mace of Sharpness",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 1,
+      "value": 400,
+      "big": false,
+      "restrictions": ["cleric"],
+      "flavorText": "Technically a mace isn't sharp but details."
+    },
+    {
+      "id": "T017",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Wand of Dowsing",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 1,
+      "value": 400,
+      "big": false,
+      "restrictions": ["wizard"],
+      "flavorText": "Points toward treasure. Also useful as a stick."
+    },
+    {
+      "id": "T018",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Halberd of Slaying",
+      "bonus": 4,
+      "slot": "hand",
+      "hands": 1,
+      "value": 600,
+      "big": true,
+      "restrictions": ["warrior"],
+      "flavorText": "Warriors only. It's huge. It's great."
+    },
+    {
+      "id": "T019",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Flaming Sword",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 1,
+      "value": 500,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "On fire. Metaphorically and literally."
+    },
+    {
+      "id": "T020",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Rapier of Unfair Advantage",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 1,
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "All advantages are fair if you win."
+    },
+
+
+    {
+      "id": "T021",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Broad Sword",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 2,
+      "value": 400,
+      "big": true,
+      "restrictions": [],
+      "flavorText": "Big sword. Needs both hands."
+    },
+    {
+      "id": "T022",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Eleven-Foot Pole",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 2,
+      "value": 400,
+      "big": true,
+      "restrictions": [],
+      "specialEffect": "You would not touch this with a ten-foot pole. Good thing you have an eleven-foot one.",
+      "flavorText": "One foot longer than the standard adventuring pole."
+    },
+    {
+      "id": "T023",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Staff of Napalm",
+      "bonus": 5,
+      "slot": "hand",
+      "hands": 2,
+      "value": 800,
+      "big": true,
+      "restrictions": ["wizard"],
+      "flavorText": "Wizards only. It sets everything on fire. Everything."
+    },
+    {
+      "id": "T024",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Singing & Dancing Sword",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 2,
+      "value": 400,
+      "big": true,
+      "restrictions": [],
+      "flavorText": "It performs. You fight. Partnership goals."
+    },
+    {
+      "id": "T025",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Bow with Flaming Arrows",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 2,
+      "value": 400,
+      "big": true,
+      "restrictions": ["elf"],
+      "flavorText": "Elves only. Range: yes."
+    },
+    {
+      "id": "T026",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Huge Rock",
+      "bonus": 3,
+      "slot": "hand",
+      "hands": 2,
+      "value": 300,
+      "big": true,
+      "restrictions": [],
+      "flavorText": "It's a rock. It's huge. Smash."
+    },
+
+ 
+    {
+      "id": "T027",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Tuba of Charm",
+      "bonus": 2,
+      "slot": "other",
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "Once per turn, play this before combat to ask for help. The target must say yes or lose a level.",
+      "flavorText": "The most persuasive instrument in the dungeon."
+    },
+    {
+      "id": "T028",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Cloak of Obscurity",
+      "bonus": 0,
+      "slot": "other",
+      "value": 300,
+      "big": false,
+      "restrictions": ["thief"],
+      "specialEffect": "Thieves only: your steal attempts are at +2.",
+      "flavorText": "Nobody sees you. Nobody."
+    },
+    {
+      "id": "T029",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Rat on a Stick",
+      "bonus": 1,
+      "slot": "other",
+      "value": 100,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Low-budget weapon. High-flavor snack."
+    },
+    {
+      "id": "T030",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Cheese Grater of Peace",
+      "bonus": 2,
+      "slot": "other",
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Grate monsters. Great results."
+    },
+    {
+      "id": "T031",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Pantyhose of Giant Strength",
+      "bonus": 3,
+      "slot": "other",
+      "value": 400,
+      "big": false,
+      "restrictions": ["female"],
+      "flavorText": "The mightiest of undergarments."
+    },
+    {
+      "id": "T032",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Buckler of Swashing",
+      "bonus": 2,
+      "slot": "other",
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Swash it. Buckle it. Win."
+    },
+    {
+      "id": "T033",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Hammer of Kneecapping",
+      "bonus": 3,
+      "slot": "other",
+      "value": 400,
+      "big": false,
+      "restrictions": ["dwarf"],
+      "flavorText": "Dwarves only. Low and effective."
+    },
+    {
+      "id": "T034",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Boots of Running Really Fast",
+      "bonus": 0,
+      "slot": "footgear",
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "You automatically succeed at Run Away attempts. No die roll needed.",
+      "flavorText": "A second pair, in case the first pair runs away."
+    },
+    {
+      "id": "T035",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Shield of Ubiquity",
+      "bonus": 2,
+      "slot": "hand",
+      "hands": 1,
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "It's everywhere. It's here. It's a shield."
+    },
+    {
+      "id": "T036",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Potion of Halitosis",
+      "bonus": 2,
+      "slot": "other",
+      "value": 200,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Breathe on the monster. It recoils. You win."
+    },
+    {
+      "id": "T037",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Scepter of Squelching",
+      "bonus": 4,
+      "slot": "other",
+      "value": 500,
+      "big": false,
+      "restrictions": ["cleric"],
+      "flavorText": "Clerics only. Squelch thy enemies."
+    },
+    {
+      "id": "T038",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Pollymorph Potion",
+      "bonus": 0,
+      "slot": "other",
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "Play during combat: the monster becomes a different random monster. Draw a new monster from the Door deck. The new monster replaces the old one.",
+      "flavorText": "What could possibly go wrong?"
+    },
+    {
+      "id": "T039",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Flaming Armor",
+      "bonus": 3,
+      "slot": "armor",
+      "value": 400,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Warm. Very warm."
+    },
+    {
+      "id": "T040",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Spiky Knees",
+      "bonus": 2,
+      "slot": "armor",
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Knee spikes. For when regular knees just aren't enough."
+    },
+    {
+      "id": "T041",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Really Impressive Title",
+      "bonus": 3,
+      "slot": "other",
+      "value": 0,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "This item has no gold value. It gives +3 in combat against any monster that responds to authority.",
+      "flavorText": "Baron von Kicksalot, Esquire III."
+    },
+    {
+      "id": "T042",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Cotion of Ponfusion",
+      "bonus": 0,
+      "slot": "other",
+      "value": 200,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "Play during combat: the monster is confused. It loses 5 levels for this combat.",
+      "flavorText": "Not to be confused with a Potion of Confusion."
+    },
+    {
+      "id": "T043",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Magic Lamp",
+      "bonus": 0,
+      "slot": "other",
+      "value": 500,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "Discard this card to gain 3 levels. Cannot be used to win the game.",
+      "flavorText": "Three wishes. Well, three levels."
+    },
+    {
+      "id": "T044",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Boil and Bubble",
+      "bonus": 0,
+      "slot": "other",
+      "value": 300,
+      "big": false,
+      "restrictions": ["wizard"],
+      "specialEffect": "Wizards only. Play during combat to add +5 to your combat strength.",
+      "flavorText": "Double, double, toil and trouble."
+    },
+
+    
+    {
+      "id": "T045",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Transferral Potion",
+      "playTiming": "combat",
+      "effect": "Transfer any one Bad Stuff penalty from yourself to any other player currently in the combat.",
+      "value": 300,
+      "flavorText": "Not my problem anymore."
+    },
+    {
+      "id": "T046",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Instant Wall",
+      "playTiming": "combat",
+      "effect": "Play to escape from combat automatically. No Run Away roll needed. Cannot be used if you are Level 10 and would win.",
+      "value": 300,
+      "flavorText": "WALL."
+    },
+    {
+      "id": "T047",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Potion of General Studliness",
+      "playTiming": "combat",
+      "effect": "Add +2 to your combat strength for one combat.",
+      "value": 200,
+      "flavorText": "You feel... studly."
+    },
+    {
+      "id": "T048",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Potion of General Studliness",
+      "playTiming": "combat",
+      "effect": "Add +2 to your combat strength for one combat.",
+      "value": 200,
+      "flavorText": "You feel even studlier."
+    },
+    {
+      "id": "T049",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Wishing Ring",
+      "playTiming": "anytime",
+      "effect": "Cancel any one Curse that just affected you.",
+      "value": 500,
+      "flavorText": "You get one wish. Use it wisely."
+    },
+    {
+      "id": "T050",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Wishing Ring",
+      "playTiming": "anytime",
+      "effect": "Cancel any one Curse that just affected you.",
+      "value": 500,
+      "flavorText": "Another wish. Lucky you."
+    },
+    {
+      "id": "T051",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Invisibility Potion",
+      "playTiming": "combat",
+      "effect": "You become invisible. Escape from combat automatically. Alternatively, add +4 to your combat strength.",
+      "value": 400,
+      "flavorText": "See me? No you don't."
+    },
+    {
+      "id": "T052",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Loaded Die",
+      "playTiming": "anytime",
+      "effect": "Reroll any one die roll and take the better result.",
+      "value": 300,
+      "flavorText": "Luck? Or skill? Yes."
+    },
+    {
+      "id": "T053",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Loaded Die",
+      "playTiming": "anytime",
+      "effect": "Reroll any one die roll and take the better result.",
+      "value": 300,
+      "flavorText": "Still loaded."
+    },
+    {
+      "id": "T054",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Potion of Idiotic Courage",
+      "playTiming": "combat",
+      "effect": "Add +3 to your combat strength. However, you may not run away from this combat.",
+      "value": 300,
+      "flavorText": "Brave or stupid? Both!"
+    },
+    {
+      "id": "T055",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Potion of Idiotic Courage",
+      "playTiming": "combat",
+      "effect": "Add +3 to your combat strength. However, you may not run away from this combat.",
+      "value": 300,
+      "flavorText": "Still both."
+    },
+    {
+      "id": "T056",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Flamboyant Armor",
+      "playTiming": "combat",
+      "effect": "Add +3 to your combat strength. Can only be played if you are wearing no armor.",
+      "value": 300,
+      "flavorText": "Confidence is the best armor."
+    },
+    {
+      "id": "T057",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Yuppie Water",
+      "playTiming": "anytime",
+      "effect": "Gain 1 level.",
+      "value": 100,
+      "flavorText": "Premium hydration. Premium results."
+    },
+    {
+      "id": "T058",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Yuppie Water",
+      "playTiming": "anytime",
+      "effect": "Gain 1 level.",
+      "value": 100,
+      "flavorText": "More premium hydration."
+    },
+    {
+      "id": "T059",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Annihilate",
+      "playTiming": "combat",
+      "effect": "Add +5 to your combat strength for one combat.",
+      "value": 500,
+      "flavorText": "Just... annihilate it."
+    },
+    {
+      "id": "T060",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Enhancements",
+      "playTiming": "combat",
+      "effect": "Add +3 to any one item's bonus for one combat.",
+      "value": 300,
+      "flavorText": "Better. Stronger. Faster. Temporarily."
+    },
+    {
+      "id": "T061",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Fire and Ice",
+      "playTiming": "combat",
+      "effect": "Add +4 to your combat strength.",
+      "value": 400,
+      "flavorText": "Hot and cold. Equally deadly."
+    },
+    {
+      "id": "T062",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Magic Missile",
+      "playTiming": "combat",
+      "effect": "Add +5 to your combat strength.",
+      "value": 500,
+      "flavorText": "Magic. Missile. Done."
+    },
+    {
+      "id": "T063",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Steal a Level",
+      "playTiming": "anytime",
+      "effect": "Play against any player. They lose a level, you gain a level.",
+      "value": 400,
+      "flavorText": "Level theft. Technically legal in dungeons."
+    },
+    {
+      "id": "T064",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Cheat!",
+      "playTiming": "anytime",
+      "effect": "Play to ignore any one restriction on any one item you are using right now.",
+      "value": 300,
+      "flavorText": "It's not cheating if nobody catches you."
+    },
+    {
+      "id": "T065",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Cheat!",
+      "playTiming": "anytime",
+      "effect": "Play to ignore any one restriction on any one item you are using right now.",
+      "value": 300,
+      "flavorText": "Still not cheating."
+    },
+    {
+      "id": "T066",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Tripe Potion",
+      "playTiming": "combat",
+      "effect": "Play on any monster. It loses 5 levels for this combat.",
+      "value": 300,
+      "flavorText": "Feed it this. Watch it wilt."
+    },
+    {
+      "id": "T067",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Whine at the GM",
+      "playTiming": "anytime",
+      "effect": "Gain 1 level. All other players lose 1 level. This card can only be played once per game.",
+      "value": 200,
+      "flavorText": "But that's not FAAAIR."
+    },
+    {
+      "id": "T068",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Nasty Tasting Sports Drink",
+      "playTiming": "combat",
+      "effect": "Add +2 to your combat strength.",
+      "value": 200,
+      "flavorText": "Tastes like regret. Works like a charm."
+    },
+    {
+      "id": "T069",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Nasty Tasting Sports Drink",
+      "playTiming": "combat",
+      "effect": "Add +2 to your combat strength.",
+      "value": 200,
+      "flavorText": "Still tastes like regret."
+    },
+    {
+      "id": "T070",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Helpful Item",
+      "playTiming": "combat",
+      "effect": "Add +2 to your combat strength.",
+      "value": 200,
+      "flavorText": "It helps. That's it."
+    },
+    {
+      "id": "T071",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Instant Meat",
+      "playTiming": "anytime",
+      "effect": "Distract a monster. It wanders off. No treasures, no bad stuff. Cannot be used against a monster you must fight.",
+      "value": 300,
+      "flavorText": "Every monster has a price. For most, it's meat."
+    },
+    {
+      "id": "T072",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Open Sesame",
+      "playTiming": "anytime",
+      "effect": "Look through either discard pile and take any one card.",
+      "value": 400,
+      "flavorText": "Open it. Take stuff. Classic."
+    },
+
+  
+    {
+      "id": "T073",
+      "deck": "treasure",
+      "type": "levelup",
+      "name": "Go Up a Level",
+      "effect": "Gain 1 level. Cannot be used to win the game.",
+      "value": 100,
+      "flavorText": "Level up!"
+    },
+    {
+      "id": "T074",
+      "deck": "treasure",
+      "type": "levelup",
+      "name": "Go Up a Level",
+      "effect": "Gain 1 level. Cannot be used to win the game.",
+      "value": 100,
+      "flavorText": "Level up again!"
+    },
+    {
+      "id": "T075",
+      "deck": "treasure",
+      "type": "levelup",
+      "name": "Go Up a Level",
+      "effect": "Gain 1 level. Cannot be used to win the game.",
+      "value": 100,
+      "flavorText": "Still going!"
+    },
+    {
+      "id": "T076",
+      "deck": "treasure",
+      "type": "levelup",
+      "name": "Go Up a Level",
+      "effect": "Gain 1 level. Cannot be used to win the game.",
+      "value": 100,
+      "flavorText": "One more time!"
+    },
+
+    {
+      "id": "D070",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Ancient",
+      "modifier": "+10 to monster level",
+      "levelDelta": 10,
+      "treasureDelta": 1,
+      "flavorText": "Old. Angry. Powerful."
+    },
+    {
+      "id": "D071",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Baby",
+      "modifier": "-5 to monster level",
+      "levelDelta": -5,
+      "treasureDelta": -1,
+      "flavorText": "Aww. Still dangerous."
+    },
+    {
+      "id": "D072",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Enraged",
+      "modifier": "+5 to monster level, Bad Stuff is worse",
+      "levelDelta": 5,
+      "treasureDelta": 1,
+      "flavorText": "It's having a VERY bad day."
+    },
+    {
+      "id": "D073",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Humongous",
+      "modifier": "+10 to monster level",
+      "levelDelta": 10,
+      "treasureDelta": 2,
+      "flavorText": "Big. Really big."
+    },
+    {
+      "id": "D074",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Intelligent",
+      "modifier": "+5 to monster level",
+      "levelDelta": 5,
+      "treasureDelta": 1,
+      "flavorText": "It thinks. That's bad for you."
+    },
+    {
+      "id": "D075",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Undead",
+      "modifier": "Monster is now Undead. Clerics get +3 against it.",
+      "levelDelta": 0,
+      "treasureDelta": 0,
+      "flavorText": "It just won't stay dead."
+    },
+    {
+      "id": "D076",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Shrieking",
+      "modifier": "+4 to monster level",
+      "levelDelta": 4,
+      "treasureDelta": 1,
+      "flavorText": "AAAAAAAAAAAAH"
+    },
+    {
+      "id": "D077",
+      "deck": "door",
+      "type": "monsterEnhancer",
+      "name": "Mate",
+      "modifier": "There are two of them. Double the monster's level.",
+      "levelDelta": 0,
+      "levelMultiplier": 2,
+      "treasureDelta": 1,
+      "flavorText": "There is one. And also its mate."
+    },
+
+
+    {
+      "id": "T077",
+      "deck": "treasure",
+      "type": "itemEnhancer",
+      "name": "Sword of Slaying Everything Except Squid",
+      "bonus": 4,
+      "slot": "hand",
+      "hands": 1,
+      "value": 500,
+      "big": false,
+      "restrictions": [],
+      "specialEffect": "Adds +6 against any monster EXCEPT aquatic/squid monsters.",
+      "flavorText": "Everything except squid. Don't ask."
+    },
+    {
+      "id": "T078",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Limburger and Anchovy Sandwich",
+      "bonus": 2,
+      "slot": "other",
+      "value": 200,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Smell it. Fight with it. Win."
+    },
+    {
+      "id": "T079",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Leather Codpiece",
+      "bonus": 1,
+      "slot": "armor",
+      "value": 100,
+      "big": false,
+      "restrictions": ["male"],
+      "flavorText": "Male characters only. Stylish and protective."
+    },
+    {
+      "id": "T080",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Stepladder",
+      "bonus": 1,
+      "slot": "other",
+      "value": 100,
+      "big": true,
+      "restrictions": ["halfling"],
+      "specialEffect": "Halflings only: +3 instead of +1.",
+      "flavorText": "Reach the upper shelves. Fight at eye level."
+    },
+    {
+      "id": "T081",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Sandals of Protection",
+      "bonus": 1,
+      "slot": "footgear",
+      "value": 100,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "Blessed sandals. Light duty."
+    },
+    {
+      "id": "T082",
+      "deck": "treasure",
+      "type": "item",
+      "name": "Flail of Trespass",
+      "bonus": 2,
+      "slot": "hand",
+      "hands": 1,
+      "value": 300,
+      "big": false,
+      "restrictions": [],
+      "flavorText": "It flails. You win."
+    },
+    {
+      "id": "T083",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Good Taste",
+      "playTiming": "anytime",
+      "effect": "Play to cancel a Cheat! card that another player just played.",
+      "value": 300,
+      "flavorText": "Some people have it. Some don't."
+    },
+    {
+      "id": "T084",
+      "deck": "treasure",
+      "type": "oneshot",
+      "name": "Transferral Potion",
+      "playTiming": "combat",
+      "effect": "Transfer any one Bad Stuff penalty from yourself to any other player in the combat.",
+      "value": 300,
+      "flavorText": "Not my problem. Your problem now."
+    }
+  ]
+}
